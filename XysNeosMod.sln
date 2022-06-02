@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoTankControls", "NoTankControls\NoTankControls.csproj", "{9A0201A2-AC1B-4541-B027-A42EA43ED9B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangulateOnImport", "TriangulateOnImport\TriangulateOnImport.csproj", "{9A0201A2-AC1B-4541-B027-A42EA43ED9B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
