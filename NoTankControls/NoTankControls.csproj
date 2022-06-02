@@ -35,6 +35,9 @@
         <Reference Include="0Harmony, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>..\..\..\..\..\Neos\app\0Harmony.dll</HintPath>
         </Reference>
+        <Reference Include="AssimpNet, Version=3.2.0.0, Culture=neutral, PublicKeyToken=0d51b391f59f42a6">
+          <HintPath>..\..\..\..\..\Neos\AssimpNet.dll</HintPath>
+        </Reference>
         <Reference Include="BaseX, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>..\..\..\..\..\Neos\app\Neos_Data\Managed\BaseX.dll</HintPath>
         </Reference>
